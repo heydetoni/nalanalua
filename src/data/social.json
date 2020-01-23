@@ -11,6 +11,10 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/nalanalua"
+    },
+    {
+      "title": "podcast",
+      "icon": "fa-podcast"
     }
   ]
 }
