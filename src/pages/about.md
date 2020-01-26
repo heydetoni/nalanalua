@@ -4,7 +4,7 @@ subtitle: Who is Nala?
 img_path: /images/WhatsApp Image 2020-01-26 at 17.26.46.jpeg
 menus:
   main:
-    title: About
+    title: The Author
     weight: 2
 template: page
 ---
